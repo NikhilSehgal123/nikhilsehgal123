@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**NikhilSehgal123/nikhilsehgal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! Here’s a little about me:
+	•	🔭 I’m currently working on:
+AI B2B SaaS Startups
+	•	🌱 I’m currently learning:
+Robotics & Automation
+	•	👯 I’m looking to collaborate on & invest in:
+Innovative SaaS projects, automation tools, and AI-driven solutions that bring real-world impact.
+	•	💬 Ask me about:
+Automation platforms, building startups from scratch, or anything related to SaaS development and scaling.
+	•	📫 How to reach me:
+Feel free to connect with me on [[LinkedIn](https://www.linkedin.com/in/nikhil-sehgal-32513142/)].
